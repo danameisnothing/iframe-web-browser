@@ -1,0 +1,19 @@
+body {
+    /*background-image: linear-gradient(to right, #6700ff, #00ffdb);*/
+    background-color: #c0e5e3;
+}
+
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 65%;
+    height: 450px;
+    max-width: 100%;
+}
+
+input, button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
